@@ -1,0 +1,8 @@
+//user input added 
+let sum = s
+let user input = x
+let sum of the square from above = z
+if x = negative
+s = stop
+else 
+s = x + z
