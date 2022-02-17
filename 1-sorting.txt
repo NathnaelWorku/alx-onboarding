@@ -1,0 +1,23 @@
+//sorted order
+let first input = x
+let second input = y
+let third input = z
+let n = order in ascending way
+
+if x>y and x>z and y>z
+n = x, y, z
+
+if y>x and y>z and x>z
+n = y, x, z
+
+if z>x and z>y and y>z
+n = z, y, x
+
+if x>y and x>z and z>y
+n = x, z, y
+
+if y>x and y>z and z>x
+n = y, z, x
+
+if if z>x and z>y and x>y
+n = z, x, y
