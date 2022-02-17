@@ -1,0 +1,9 @@
+//calculate the sum of the square
+let n = the numbers to be added
+let sum = 0
+let z = the square of single number given
+let r = result
+for given number of n
+z = n * n
+r = sum + z
+
